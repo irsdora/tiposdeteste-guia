@@ -8,7 +8,7 @@ Cada teste tem um motivo específico para garantir que o software funcione adequ
 
 
 
-Tipos
+📝 Tipos
 
 - Testes Funcionais - Verifica se as funcionalidades do sistema estão fucnionando de acordo com os requisitos.
 
